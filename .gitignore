@@ -21,7 +21,7 @@ build/
 # IDE project files
 .idea/
 .vscode/
-
+venv/
 # FastAPI auto-generated files
 __init__.py
 py.typed
