@@ -1,29 +1,19 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
-
-# Editor backups and temporary files
-*~
-*.swp
-*.bak
-*.tmp
-*.vscode
-
-# IDE project files
+media/
+staticfiles
+static
 .idea/
-.vscode/
+env/
 venv/
-venv
-# FastAPI auto-generated files
-__init__.py
-py.typed
-api/__pycache__
+venv2/
+db.sqlite3
+geckodriver.log
+db.sqlite3-journal
+*.mo
+.vscode/
+.DS_Store
+api.http
+*.sqlite3
+ipynb/
+.ipynb_checkpoints/
+
